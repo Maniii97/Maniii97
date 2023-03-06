@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mani Shankar Jha @Maniii97 
 - 👀 I’m interested in coding,philosophy,psychology,economics and many more.
-- 🌱 I’m currently a first year student at KIIT university (CSE), learning javascript and python.
+- 🌱 I’m currently a first year student at KIIT university (CSE).
 - 💞️ I’m looking to collaborate on learning toghether in public.
+- 👀 I'm currently learning AI/ML,DevOps,Android development.
 - 📫 How to reach me.. linkedin profile- www.linkedin.com/in/mani-shankar-jha, instagram-@mani1893_
 
 <!---
