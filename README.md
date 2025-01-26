@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mani Shankar Jha @Maniii97<br>👀 I’m interested in Technology, coding, philosophy, psychology, economics.<br>🌱 I’m currently a Third year student at KIIT university (CSE).<br>💞️ I’m a self taught Android and Backend Developer.<br>👀 I'm currently also learning iOS development and Backend frameworks like Node.js, express.js and springboot.<br>📫 How to reach me.. linkedin profile- www.linkedin.com/in/mani-shankar-jha, instagram-@maniii.tsx
+👋 Hi, I’m Mani Shankar Jha @Maniii97<br>👀 I’m interested in Technology, coding, philosophy, psychology, economics.<br>🌱 I’m currently a Third year student at KIIT university (CSE).<br>💞️ I’m a self taught Android and Backend and Web Developer.<br>👀 I'm currently also learning iOS development and Backend frameworks like Node.js, express.js and springboot.<br>📫 How to reach me.. linkedin profile- www.linkedin.com/in/mani-shankar-jha, instagram-@maniii.tsx
 
 
 # 💻 Tech Stack:
